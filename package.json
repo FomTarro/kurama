@@ -1,0 +1,22 @@
+{
+    "name": "kurama",
+    "displayName": "kurama",
+    "description": "\"floral-inspired dark theme\"",
+    "version": "0.0.1",
+    "publisher": "FomTarro",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kurama",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kurama-color-theme.json"
+            }
+        ]
+    }
+}
