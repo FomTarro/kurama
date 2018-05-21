@@ -1,4 +1,4 @@
-# kurama
+# kurama 🌹
 
 floral-inspired dark theme for [VS Code](https://code.visualstudio.com/)
 

@@ -614,6 +614,26 @@
 				"foreground": "#cf2d91",
 				"fontStyle": "bold"
 			}
+		},
+		{
+			"scope": "meta.preprocessor",
+			"settings": {
+				"foreground": "#cf2d91",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#618f82",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.underline",
+			"settings": {
+				"foreground": "#cf2d91"
+			}
 		}
 	]
 }
