@@ -3,7 +3,7 @@
     "displayName": "kurama",
     "homepage": "https://github.com/FomTarro/kurama",
     "description": "\"floral-inspired dark theme\"",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "fomtarro",
     "license": "MIT",
     "maintainers": [
@@ -26,7 +26,7 @@
         "floral",
         "rose",
         "pastel",
-        "flower",
+        "pink",
         "dark"
     ],
     "icon": "icon.png",
