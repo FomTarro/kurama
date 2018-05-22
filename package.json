@@ -3,8 +3,8 @@
     "displayName": "kurama",
     "homepage": "https://github.com/FomTarro/kurama",
     "description": "\"floral-inspired dark theme\"",
-    "version": "0.0.2",
-    "publisher": "FomTarro",
+    "version": "0.0.3",
+    "publisher": "fomtarro",
     "license": "MIT",
     "maintainers": [
         "Tom Farro"
@@ -17,7 +17,7 @@
         "url": "https://github.com/FomTarro/kurama/issues"
     },
     "engines": {
-        "vscode": "^1.23.0"
+        "vscode": "^1.19.0"
     },
     "categories": [
         "Themes"
@@ -25,12 +25,11 @@
     "keywords": [
         "floral",
         "rose",
-        "mint",
         "pastel",
         "flower",
-        "dark",
-        "color-theme"
+        "dark"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
