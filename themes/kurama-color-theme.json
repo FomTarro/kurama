@@ -631,7 +631,11 @@
 			}
 		},
 		{
-			"scope": "constant.numeric",
+			"scope": [
+				"constant.numeric",
+				"meta.preprocessor.numeric",
+				"keyword.other.unit"
+			],
 			"settings": {
 				"foreground": "#95CE9B"
 			}
@@ -687,7 +691,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#A28A9C",
+				"foreground": "#95CE9B",
 				"fontStyle": "bold"
 			}
 		}
