@@ -2,8 +2,8 @@
     "name": "kurama",
     "displayName": "kurama",
     "homepage": "https://github.com/FomTarro/kurama",
-    "description": "\"floral-inspired dark theme\"",
-    "version": "0.0.8",
+    "description": "floral-inspired dark theme",
+    "version": "0.0.9",
     "publisher": "fomtarro",
     "license": "MIT",
     "maintainers": [

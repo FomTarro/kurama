@@ -567,7 +567,8 @@
 				"keyword",
 				"storage.modifier",
 				"constant.language",
-				"meta.preprocessor"
+				"meta.preprocessor",
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#cf2d91",
@@ -689,9 +690,20 @@
 			}
 		},
 		{
-			"scope": "entity.name.tag.css",
+			"scope": [
+				"entity.name.tag.css",
+				"meta.definition.variable.name",
+				"support.variable"
+			],
 			"settings": {
 				"foreground": "#95CE9B",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [],
+			"settings": {
+				"foreground": "#FF0000",
 				"fontStyle": "bold"
 			}
 		}
