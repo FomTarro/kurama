@@ -701,10 +701,32 @@
 			}
 		},
 		{
-			"scope": [],
+			"scope": [
+				"support.type.vendored.property-name",
+				"support.type.property-name",
+				"variable.css",
+				"variable.scss",
+				"variable.other.less",
+				"source.coffee.embedded"
+			],
 			"settings": {
-				"foreground": "#FF0000",
+				"foreground": "#95CE9B",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "CSS property value",
+			"scope": [
+				"constant.other.color.rgb-value",
+				"constant.other.rgb-value",
+				"support.constant.color",
+				"support.constant.property-value",
+				"support.constant.font-name",
+				"support.constant.media-type",
+				"support.constant.media"
+			],
+			"settings": {
+				"foreground": "#A28A9C"
 			}
 		}
 	]
