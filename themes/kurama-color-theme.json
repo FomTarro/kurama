@@ -594,7 +594,13 @@
 			}
 		},
 		{
-			"scope": "entity.name.function",
+			"name": "Functions",
+			"scope": [
+				"entity.name.function",
+				"entity.name.function",
+				"support.function",
+				"support.constant.handlebars"
+			],
 			"settings": {
 				"foreground": "#DCDCAA",
 				"fontStyle": "bold"
@@ -727,6 +733,13 @@
 			],
 			"settings": {
 				"foreground": "#A28A9C"
+			}
+		},
+		{
+			"scope": [],
+			"settings": {
+				"foreground": "#FF0000",
+				"fontStyle": "bold"
 			}
 		}
 	]
