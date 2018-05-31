@@ -1,8 +1,10 @@
 {
 	"type": "dark",
 	"colors": {
-		"list.activeSelectionBackground": "#383437",
+		"list.focusBackground": "#383437",
+		"list.activeSelectionBackground": "#242125",
 		"list.inactiveSelectionBackground": "#383437",
+		"list.hoverBackground": "#242125",
 		"list.dropBackground": "#383b3d",
 		"editor.background": "#242125",
 		"editor.foreground": "#8b6683",
@@ -23,6 +25,7 @@
 		"sideBar.background": "#2f2931",
 		"sideBar.foreground": "#bbb8b8",
 		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBarSectionHeader.background": "#8b6683",
 		"sideBarSectionHeader.foreground": "#d6d6d6",
 		"gitDecoration.modifiedResourceForeground": "#cf2d91"
 	},
