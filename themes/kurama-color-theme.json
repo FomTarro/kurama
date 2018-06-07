@@ -22,6 +22,7 @@
 		"editor.lineHighlightBackground": "#383437",
 		"editorIndentGuide.background": "#404040",
 		"editorIndentGuide.activeBackground": "#707070",
+		"editorBracketMatch.background": "#2f2931",
 		"editorBracketMatch.border": "#f7bce1",
 		"editorError.foreground": "#ff0066",
 		"editorWarning.foreground": "#dcdcaa",
@@ -578,6 +579,7 @@
 			}
 		},
 		{
+			"name": "Modifiers",
 			"scope": [
 				"keyword",
 				"storage.modifier",
@@ -598,6 +600,7 @@
 			}
 		},
 		{
+			"name": "Docs",
 			"scope": [
 				"entity.name.tag",
 				"entity.other.attribute-name",
@@ -622,6 +625,7 @@
 			}
 		},
 		{
+			"name": "Classes",
 			"scope": [
 				"entity.name.type",
 				"entity.name.class",
@@ -722,6 +726,7 @@
 			}
 		},
 		{
+			"name": "CSS variables",
 			"scope": [
 				"support.type.vendored.property-name",
 				"support.type.property-name",
@@ -748,13 +753,6 @@
 			],
 			"settings": {
 				"foreground": "#A28A9C"
-			}
-		},
-		{
-			"scope": [],
-			"settings": {
-				"foreground": "#FF0000",
-				"fontStyle": "bold"
 			}
 		}
 	]
