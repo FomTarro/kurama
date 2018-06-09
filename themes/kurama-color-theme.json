@@ -593,6 +593,7 @@
 			}
 		},
 		{
+			"name": "Comments",
 			"scope": "comment",
 			"settings": {
 				"foreground": "#618f82",
@@ -657,6 +658,7 @@
 			}
 		},
 		{
+			"name": "Values",
 			"scope": [
 				"constant.numeric",
 				"meta.preprocessor.numeric",
@@ -667,18 +669,21 @@
 			}
 		},
 		{
+			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#d6d6d6"
 			}
 		},
 		{
+			"name": "Variables",
 			"scope": "variable",
 			"settings": {
 				"foreground": "#A28A9C"
 			}
 		},
 		{
+			"name": "Strings",
 			"scope": "string",
 			"settings": {
 				"foreground": "#F7BCE1"
@@ -698,6 +703,7 @@
 			}
 		},
 		{
+			"name": "CSS",
 			"scope": [
 				"entity.other.attribute-name.class.css",
 				"entity.other.attribute-name.class.mixin.css",
