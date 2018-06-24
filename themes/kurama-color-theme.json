@@ -650,7 +650,8 @@
 				"storage.type.generic.groovy",
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
-				"storage.type.primitive.groovy"
+				"storage.type.primitive.groovy",
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#95CE9B",
